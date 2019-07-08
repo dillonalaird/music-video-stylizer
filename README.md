@@ -2,7 +2,8 @@
 The music video styler program uses neural style transfer and image segmentation
 to only add the neural style transfer to people or objects in the video. A line
 is also drawn around the objects and noise is added in proportion to the amount
-of low frequency content or base.
+of low frequency content or base. Check out the blog post
+[here](https://dillonalaird.github.io/AI-Music-Video-Stylizer/)
 
 
 ## Installation Instructions
